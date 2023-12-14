@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "746003247890",
+    "project_id": "student-management-syste-8e688",
+    "storage_bucket": "student-management-syste-8e688.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:746003247890:android:d24846b1113c72296779cb",
+        "android_client_info": {
+          "package_name": "com.aces.ipt.project.sms"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD52mcyopvLdlSbmq8L5cQZPIifUWoQrBQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
